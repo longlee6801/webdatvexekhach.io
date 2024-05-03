@@ -1,0 +1,797 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\css\\clndr.css",
+      "PackagePath": "staticwebassets\\admin\\css\\clndr.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\css\\jqvmap.css",
+      "PackagePath": "staticwebassets\\admin\\css\\jqvmap.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\css\\nav.css",
+      "PackagePath": "staticwebassets\\admin\\css\\nav.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\images\\ar2.png",
+      "PackagePath": "staticwebassets\\admin\\images\\ar2.png"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\images\\arrows.png",
+      "PackagePath": "staticwebassets\\admin\\images\\arrows.png"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\images\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\images\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\images\\img-sprite.png",
+      "PackagePath": "staticwebassets\\admin\\images\\img-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\images\\into.png",
+      "PackagePath": "staticwebassets\\admin\\images\\into.png"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\images\\into1.png",
+      "PackagePath": "staticwebassets\\admin\\images\\into1.png"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\images\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\images\\pp.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\pp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\images\\pp0.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\pp0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\images\\pp01.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\pp01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\images\\settings.png",
+      "PackagePath": "staticwebassets\\admin\\images\\settings.png"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\images\\tick-mark.png",
+      "PackagePath": "staticwebassets\\admin\\images\\tick-mark.png"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\js\\Chart1.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart1.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\js\\clndr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\clndr.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\js\\easyResponsiveTabs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\easyResponsiveTabs.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\js\\jquery.easydropdown.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.easydropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\js\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\js\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.vmap.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\js\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\js\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\js\\moment-2.2.1.js",
+      "PackagePath": "staticwebassets\\admin\\js\\moment-2.2.1.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\js\\site.js",
+      "PackagePath": "staticwebassets\\admin\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\admin\\js\\underscore-min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\underscore-min.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\css\\css_slider.css",
+      "PackagePath": "staticwebassets\\css\\css_slider.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\css\\main.css",
+      "PackagePath": "staticwebassets\\form_login\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\css\\util.css",
+      "PackagePath": "staticwebassets\\form_login\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\ubuntu\\UFL.txt",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\ubuntu\\UFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\ubuntu\\Ubuntu-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\ubuntu\\Ubuntu-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\ubuntu\\Ubuntu-Italic.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\ubuntu\\Ubuntu-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\ubuntu\\Ubuntu-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\ubuntu\\Ubuntu-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\ubuntu\\Ubuntu-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\ubuntu\\Ubuntu-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\fonts\\ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\form_login\\fonts\\ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\form_login\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\form_login\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\js\\main.js",
+      "PackagePath": "staticwebassets\\form_login\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\form_login\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\form_login\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\images\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\china.jpg",
+      "PackagePath": "staticwebassets\\images\\china.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\choose.jpg",
+      "PackagePath": "staticwebassets\\images\\choose.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\japan.jpg",
+      "PackagePath": "staticwebassets\\images\\japan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\malaysia.jpg",
+      "PackagePath": "staticwebassets\\images\\malaysia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\p1.jpg",
+      "PackagePath": "staticwebassets\\images\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\p2.jpg",
+      "PackagePath": "staticwebassets\\images\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\images\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\p4.jpg",
+      "PackagePath": "staticwebassets\\images\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\singapore.jpg",
+      "PackagePath": "staticwebassets\\images\\singapore.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\te1.jpg",
+      "PackagePath": "staticwebassets\\images\\te1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\te2.jpg",
+      "PackagePath": "staticwebassets\\images\\te2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\te3.jpg",
+      "PackagePath": "staticwebassets\\images\\te3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\BuonMeThuot.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\BuonMeThuot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\DaLat.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\DaLat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\DaNang.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\DaNang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\HaTien.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\HaTien.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\HanQuoc.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\HanQuoc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\KhanhHoa.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\KhanhHoa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\NhaTrang.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\NhaTrang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\PhanThiet.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\PhanThiet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\PhuQuoc.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\PhuQuoc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\QuyNhon.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\QuyNhon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\ThaiLan.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\ThaiLan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\VinhHaLong.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\VinhHaLong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\VungTau.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\VungTau.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\china.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\china.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\japan.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\japan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\malaysia.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\malaysia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tuf\\Desktop\\TourCore\\TourCore\\TourCore\\TourCore\\wwwroot\\images\\tour_images\\singapore.jpg",
+      "PackagePath": "staticwebassets\\images\\tour_images\\singapore.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TourCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TourCore.props",
+      "PackagePath": "build\\TourCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TourCore.props",
+      "PackagePath": "buildMultiTargeting\\TourCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TourCore.props",
+      "PackagePath": "buildTransitive\\TourCore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

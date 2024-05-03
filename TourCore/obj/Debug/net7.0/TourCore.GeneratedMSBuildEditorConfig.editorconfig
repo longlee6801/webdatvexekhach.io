@@ -1,0 +1,153 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TourCore
+build_property.RootNamespace = TourCore
+build_property.ProjectDir = C:\Users\tuf\Desktop\bài tập đồ án\bài tập đồ án\TourCore\TourCore\TourCore\TourCore\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\tuf\Desktop\bài tập đồ án\bài tập đồ án\TourCore\TourCore\TourCore\TourCore
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Admin/AddStaff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkU3RhZmYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Admin/AllStaff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWxsU3RhZmYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Admin/EditContractDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdENvbnRyYWN0RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Admin/EditTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFRvdXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Admin/InsertTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5zZXJ0VG91ci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Admin/Payment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Admin/QuantitesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUXVhbnRpdGVzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Admin/QuantityMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUXVhbnRpdHlNZW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Admin/ReportMail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVwb3J0TWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Admin/SeeContractDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2VlQ29udHJhY3REZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Admin/ShowAllTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2hvd0FsbFRvdXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Admin/Travel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVHJhdmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/BookingTour/BookingTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1RvdXJcQm9va2luZ1RvdXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Customer/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Home/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Home/News.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Shared/Components/Count/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ291bnRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Shared/Components/Menu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Shared/Components/Tour/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVG91clxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Shared/_LayoutTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRUb3VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Shared/_LayoutTourDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRUb3VyRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Tour/Domestic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91clxEb21lc3RpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Tour/FindTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91clxGaW5kVG91ci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Tour/FindTourPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91clxGaW5kVG91clBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Tour/National.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91clxOYXRpb25hbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tuf/Desktop/bài tập đồ án/bài tập đồ án/TourCore/TourCore/TourCore/TourCore/Views/Tour/TourDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91clxUb3VyRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
